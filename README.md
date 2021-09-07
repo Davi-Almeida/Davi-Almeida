@@ -1,8 +1,11 @@
-Eai! eu  sou o Davi Almeida
+
 🧑🏻 | Me chamo Davi Almeida.
+
 🎵 | Gosto de pagode e funk.
+
 🎮 | Meu jogo favorito são Grant Theft Auto V 
-   | Meu desenho favorito, sem dúvidas, é os The Simpsons!
+
+| Meu desenho favorito, sem dúvidas, é os The Simpsons!
 
 <div>
   <a href="https://github.com/Davi-Almeida">
