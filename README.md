@@ -5,7 +5,7 @@
 
 🎮 | Meu jogo favorito são Grant Theft Auto V 
 
-| Meu desenho favorito, sem dúvidas, é os The Simpsons!
+    | Meu desenho favorito, sem dúvidas, é The Simpsons!
 
 <div>
   <a href="https://github.com/Davi-Almeida">
