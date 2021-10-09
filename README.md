@@ -29,7 +29,7 @@
 
  ## Total de Visitas no perfil :detective: <br>
  <p>
-   <img alingn="center" src="https://profile-counter.glitch.me/Davi-Almeida/count.svg" />
+   < src="https://profile-counter.glitch.me/Davi-Almeida/count.svg" />
  </p>
 
 </div>
