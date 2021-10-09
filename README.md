@@ -28,8 +28,8 @@
     <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
- <p>
-   < src="https://profile-counter.glitch.me/Davi-Almeida/count.svg" />
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
  </p>
 
 </div>
